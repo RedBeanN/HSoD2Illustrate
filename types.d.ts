@@ -117,7 +117,14 @@ export interface ExceedSkill {
   damageType: DamageType,
   desc: string,
   alb: number,
-  maxLvDesc: string
+  maxLvDesc: string,
+  evolveFormula: {
+    type: 'equipment' | 'material',
+    id: number,
+    img: string,
+    name: string,
+    num: number
+  }[]
 }
 /**
  * 使魔技能
