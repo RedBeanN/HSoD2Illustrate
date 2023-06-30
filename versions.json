@@ -1,17 +1,17 @@
 {
   "original": {
     "version": "10.2",
-    "time": "2023-06-29 13:00:01",
-    "md5": "77b2a366c24feb0bd0cac319abd61400"
+    "time": "2023-06-30 11:00:01",
+    "md5": "bbb32b0ca7a0e7f59dc27fff2c8d58f6"
   },
   "beta": {
     "version": "10.2",
-    "time": "2023-06-28 17:00:01",
-    "md5": "5ca00ec50b0cfaab1f7bca3d16b7551c"
+    "time": "2023-06-30 11:00:01",
+    "md5": "91704931be7a13f1acef11d4bfd443de"
   },
   "merged": {
     "version": "10.2",
-    "time": "2023-06-29 11:00:01",
-    "md5": "9260ab3e5844dfb3d27fd2904df355b1"
+    "time": "2023-06-30 11:00:01",
+    "md5": "1e682603ce80bbdd829101db33ab2b83"
   }
 }
