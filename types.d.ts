@@ -43,6 +43,28 @@ export interface AwakenFormula {
   img: string,
   name: string
 }
+/** 拆解信息 */
+export interface Decompose {
+  /** 开放拆解 */
+  on: boolean,
+  /** 拆解装备获得的祈之共鸣 */
+  dust: number,
+  /** 拆解后回收的装备 */
+  retrieve: {
+    /** 是否可从回收屋回收 */
+    on: boolean,
+    /** 回收消耗的祈之共鸣 */
+    cost: number,
+    /** 装备 ID */
+    uid: number,
+    /** 装备名 */
+    title: string,
+    /** 星级 */
+    rarity: number,
+    /** 图标 */
+    img: string
+  }
+}
 /**
  * 看板信息
  *
@@ -192,6 +214,8 @@ export interface Costume {
   posters: Poster[],
   /** 装备技能 */
   skills: EquipmentSkill[],
+  /** 拆解信息，不可拆解为 null */
+  decompose: Decompose | null,
   /** 觉醒公式 */
   awakenFormula: AwakenFormula[],
   /** 进化公式 */
@@ -278,6 +302,8 @@ export interface Weapon {
   extraSkills?: ExtraSkill[],
   /** 空想装备超限技能 */
   exceedSkills?: ExceedSkill[],
+  /** 拆解信息，不可拆解为 null */
+  decompose: Decompose | null,
   /** 觉醒公式 */
   awakenFormula: AwakenFormula[],
   /** 进化公式 */
@@ -324,6 +350,8 @@ export interface PassiveSkill {
   extraSkills?: ExtraSkill[],
   /** 空想装备超限技能 */
   exceedSkills?: ExceedSkill[],
+  /** 拆解信息，不可拆解为 null */
+  decompose: Decompose | null,
   /** 觉醒公式 */
   awakenFormula: AwakenFormula[],
   /** 进化公式 */
