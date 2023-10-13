@@ -5,13 +5,13 @@
     "md5": "97beb9d8782364ce8b783da919ae6001"
   },
   "beta": {
-    "version": "10.4",
-    "time": "2023-09-15 12:00:01",
-    "md5": "5f7e9cbbcee523a8aaa4db2a020d28ee"
+    "version": "10.5",
+    "time": "2023-10-13 12:27:17",
+    "md5": "f7ebaf3ef6d230ffaab19c6f9e150ede"
   },
   "merged": {
-    "version": "10.4",
-    "time": "2023-09-20 12:00:01",
-    "md5": "f20432f4f4ccc3a53c501ddbd3cda66e"
+    "version": "10.5",
+    "time": "2023-10-13 12:27:17",
+    "md5": "c35c06eccb0e6958bcc08acde4400b34"
   }
 }
