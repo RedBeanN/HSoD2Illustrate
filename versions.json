@@ -1,8 +1,8 @@
 {
   "original": {
     "version": "10.5",
-    "time": "2023-11-30 21:00:01",
-    "md5": "cbd143ed541c91f2aca03543973f9b8a"
+    "time": "2023-12-07 17:00:01",
+    "md5": "b3757c97cba4eecf2c122795e21d0dfb"
   },
   "beta": {
     "version": "10.6",
@@ -11,7 +11,7 @@
   },
   "merged": {
     "version": "10.6",
-    "time": "2023-12-01 18:00:01",
-    "md5": "70f3ed40df1c6dcb7b96a60c9ab7fc8d"
+    "time": "2023-12-07 17:00:01",
+    "md5": "fde0465cc353571bab21df3943b747c3"
   }
 }
