@@ -433,3 +433,14 @@ export interface Pet {
 }
 
 export type Equipment = Weapon | Costume | PassiveSkill | Pet
+
+export interface EquipAffix {
+  ID: number
+  SpecialAttributeID: number
+  SpecialAttributeName: string
+  Param1: number
+  Param2: number
+  Param3: number
+  Param4: number
+  Param5: number
+}
