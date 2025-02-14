@@ -107,6 +107,16 @@ export interface EquipmentSkill {
   desc: string,
   alb: number,
   maxLvDesc: string
+  /** 技能附带的额外信息，比如铭刻 */
+  extra?: Array<{
+    /** 目前只有铭刻一种type */
+    type: 'affix',
+    skill: {
+      id: string
+      title: string
+      desc: string
+    }
+  }>
 }
 /**
  * 空想装备的 Extra 进化技能
