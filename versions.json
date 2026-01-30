@@ -5,14 +5,14 @@
     "md5": "22b395fdaaf4ec6f78f17cad9478f53e"
   },
   "beta": {
-    "version": "12.6",
-    "time": "2025-12-18 19:00:01",
-    "md5": "0f6ec622398a151bacd04ea464272892"
+    "version": "13.0",
+    "time": "2026-01-30 17:00:01",
+    "md5": "c9e1ed68bd18c72a2e497dc2047fbcc3"
   },
   "merged": {
-    "version": "12.6",
-    "time": "2026-01-29 20:00:01",
-    "md5": "3d1d49770a7d3fbe179bc1a164eb47ad"
+    "version": "13.0",
+    "time": "2026-01-30 17:00:01",
+    "md5": "c03eeb7593bf4560f5ae612f683bc737"
   },
   "jporiginal": {
     "version": "12.2",
