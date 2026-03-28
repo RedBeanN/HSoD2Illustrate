@@ -1,18 +1,18 @@
 {
   "original": {
-    "version": "12.6",
-    "time": "2026-01-29 20:00:01",
-    "md5": "22b395fdaaf4ec6f78f17cad9478f53e"
+    "version": "13.0",
+    "time": "2026-03-28 15:00:02",
+    "md5": "68ae9741f08be47fe15e5617fcca34f3"
   },
   "beta": {
-    "version": "13.0",
-    "time": "2026-02-24 16:00:01",
-    "md5": "b9925666746718a78f155f211657762d"
+    "version": "13.1",
+    "time": "2026-03-28 15:00:02",
+    "md5": "fee698deba43e4205df0b90886b0377f"
   },
   "merged": {
-    "version": "13.0",
-    "time": "2026-02-24 16:00:01",
-    "md5": "78d8f05a236ce460ee66a7b44ed72cb1"
+    "version": "13.1",
+    "time": "2026-03-28 15:00:02",
+    "md5": "0fc1f835c0db306c17bf71b813c6136f"
   },
   "jporiginal": {
     "version": "12.2",
