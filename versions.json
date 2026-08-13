@@ -1,8 +1,8 @@
 {
   "original": {
-    "version": "13.2",
-    "time": "2026-06-22 14:30:01",
-    "md5": "5d677ba754cc129c591fdfa638db2f9d"
+    "version": "13.3",
+    "time": "2026-08-13 12:30:01",
+    "md5": "ffece61da6ffe5660b2d908acea73c3d"
   },
   "beta": {
     "version": "13.3",
@@ -11,8 +11,8 @@
   },
   "merged": {
     "version": "13.3",
-    "time": "2026-07-31 10:30:01",
-    "md5": "557ead9f742fddc83314809c5f5a8ba1"
+    "time": "2026-08-13 12:30:01",
+    "md5": "42781f0cdfdd8696555a1b973168fc9f"
   },
   "jporiginal": {
     "version": "12.2",
