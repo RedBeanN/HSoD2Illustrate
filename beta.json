@@ -170251,7 +170251,60 @@
       }
     },
     "evolveFormula": {
-      "input": [],
+      "input": [
+        {
+          "id": 2391,
+          "input": {
+            "type": "equipment",
+            "id": 1523,
+            "img": "4236",
+            "name": "妙音天女"
+          },
+          "output": {
+            "type": "equipment",
+            "id": 50042,
+            "img": "50042",
+            "name": "灵姬美音天"
+          },
+          "materials": [
+            {
+              "type": "material",
+              "id": 9480,
+              "img": "3272",
+              "name": "幻惑者的凝望",
+              "num": 1
+            },
+            {
+              "type": "material",
+              "id": 9339,
+              "img": "1717",
+              "name": "悖心者的烙印",
+              "num": 1
+            },
+            {
+              "type": "material",
+              "id": 9340,
+              "img": "1718",
+              "name": "遥远的金色回忆",
+              "num": 1
+            },
+            {
+              "type": "material",
+              "id": 9687,
+              "img": "9687",
+              "name": "崩坏之羽",
+              "num": 1
+            },
+            {
+              "type": "material",
+              "id": 9687,
+              "img": "9687",
+              "name": "崩坏之羽",
+              "num": 1
+            }
+          ]
+        }
+      ],
       "output": [
         {
           "id": 1891,
@@ -465978,27 +466031,27 @@
     "criticalRate": 0.05,
     "multiShootLineNum": 0,
     "limitedNumber": 0,
-    "posterId": 1202,
+    "posterId": 1210,
     "posters": [
       {
-        "id": 1202,
-        "figure": "2202",
-        "type": 1,
-        "name": "看板No.2202 Name",
-        "desc": "短介绍",
+        "id": 1210,
+        "figure": "2210",
+        "type": 2,
+        "name": "花幡·丧恸哀光",
+        "desc": "花幡作为与亡魂走得过近的指引者，她阳光下的影子偶尔会多出几个头、几只手。睡着后，她偶尔会用不同的声音和口吻说梦话，念很多名字，偶尔笑，偶尔哭。#n“真可惜……巴比伦的亡魂们都有可以去的地方，我什么忙都帮不上它们。”#n她是最温柔的指引者，自称指引道路是自己唯一会做的事情，就像一种深入骨髓的本能，但对于目的地在哪，她却怎么也不清楚，更不清楚为什么自己不清楚。#n据说，在来到巴比伦前未能想明白的事情，来到巴比伦成为了神格后，将更无法想明白。",
         "talklist": [
-          "喵喵喵1",
-          "喵喵喵2",
-          "喵喵喵3",
-          "喵喵喵4",
-          "喵喵喵5",
-          "喵喵喵6"
+          "我不会再让任何亡魂迷路了，我不会……",
+          "到底指引多少亡魂了，我已经……记不清了……",
+          "名字，告诉我你生前的名字……这样啊，原来你也没有名字啊。",
+          "据说世界的尽头存在救赎，可世界的尽头怎么是一片大海。哈哈，接下来，该何去何从好呢？",
+          "死亡不是终点，遗忘才是。",
+          "今天有一个亡魂，原本怎么都不肯跟我走。她在等一个已经不会来的女孩……"
         ],
-        "height": "???cm",
-        "weight": "体重",
-        "threesize": "??/??/??",
-        "birthday": "??/??",
-        "hobby": "趣味"
+        "height": "157cm",
+        "weight": "46公斤",
+        "threesize": "80/59/83",
+        "birthday": "2/8",
+        "hobby": "指引迷途的亡魂"
       }
     ],
     "skills": [
@@ -466145,27 +466198,27 @@
     "criticalRate": 0.05,
     "multiShootLineNum": 0,
     "limitedNumber": 0,
-    "posterId": 1202,
+    "posterId": 1210,
     "posters": [
       {
-        "id": 1202,
-        "figure": "2202",
-        "type": 1,
-        "name": "看板No.2202 Name",
-        "desc": "短介绍",
+        "id": 1210,
+        "figure": "2210",
+        "type": 2,
+        "name": "花幡·丧恸哀光",
+        "desc": "花幡作为与亡魂走得过近的指引者，她阳光下的影子偶尔会多出几个头、几只手。睡着后，她偶尔会用不同的声音和口吻说梦话，念很多名字，偶尔笑，偶尔哭。#n“真可惜……巴比伦的亡魂们都有可以去的地方，我什么忙都帮不上它们。”#n她是最温柔的指引者，自称指引道路是自己唯一会做的事情，就像一种深入骨髓的本能，但对于目的地在哪，她却怎么也不清楚，更不清楚为什么自己不清楚。#n据说，在来到巴比伦前未能想明白的事情，来到巴比伦成为了神格后，将更无法想明白。",
         "talklist": [
-          "喵喵喵1",
-          "喵喵喵2",
-          "喵喵喵3",
-          "喵喵喵4",
-          "喵喵喵5",
-          "喵喵喵6"
+          "我不会再让任何亡魂迷路了，我不会……",
+          "到底指引多少亡魂了，我已经……记不清了……",
+          "名字，告诉我你生前的名字……这样啊，原来你也没有名字啊。",
+          "据说世界的尽头存在救赎，可世界的尽头怎么是一片大海。哈哈，接下来，该何去何从好呢？",
+          "死亡不是终点，遗忘才是。",
+          "今天有一个亡魂，原本怎么都不肯跟我走。她在等一个已经不会来的女孩……"
         ],
-        "height": "???cm",
-        "weight": "体重",
-        "threesize": "??/??/??",
-        "birthday": "??/??",
-        "hobby": "趣味"
+        "height": "157cm",
+        "weight": "46公斤",
+        "threesize": "80/59/83",
+        "birthday": "2/8",
+        "hobby": "指引迷途的亡魂"
       }
     ],
     "skills": [
@@ -466490,6 +466543,657 @@
             "id": 21200,
             "img": "21200",
             "name": "凯恩战术·青春骑士"
+          },
+          "materials": [
+            {
+              "type": "material",
+              "id": 9686,
+              "img": "9686",
+              "name": "猫猫团子",
+              "num": 1
+            },
+            {
+              "type": "material",
+              "id": 9686,
+              "img": "9686",
+              "name": "猫猫团子",
+              "num": 1
+            },
+            {
+              "type": "material",
+              "id": 9686,
+              "img": "9686",
+              "name": "猫猫团子",
+              "num": 1
+            },
+            {
+              "type": "material",
+              "id": 9686,
+              "img": "9686",
+              "name": "猫猫团子",
+              "num": 1
+            }
+          ]
+        }
+      ]
+    },
+    "skins": []
+  },
+  {
+    "type": "weapon",
+    "baseType": "霰弹-多头",
+    "uid": 21201,
+    "id": 21201,
+    "title": "凤引云音",
+    "img": "21201",
+    "desc": "唯一装备，带多件无效哟~",
+    "rarity": 5,
+    "cost": 15,
+    "maxlv": 50,
+    "seriesId": 11,
+    "seriesText": "角色",
+    "damageType": "physic",
+    "damageBase": 192,
+    "damageAdd": 6.265,
+    "damageMaxLv": 498,
+    "ammoBase": 30,
+    "ammoAdd": 0,
+    "ammoMaxLv": 30,
+    "fireRateBase": 1.7,
+    "fireRateAdd": 0,
+    "fireRateMaxLv": 1.7,
+    "countDownTimeBase": 0,
+    "countDownTimeAdd": 0,
+    "countDownTimeMaxLv": 0,
+    "hpBase": 0,
+    "hpAdd": 0,
+    "hpMaxLv": 0,
+    "criticalRate": 0.05,
+    "multiShootLineNum": 7,
+    "limitedNumber": 0,
+    "posterId": 0,
+    "posters": [],
+    "skills": [
+      {
+        "title": "凤吟留云",
+        "damageType": "none",
+        "desc": "攻击命中时，使首个被命中的敌人进入[牵制]状态，降低12.75(+0.25每级/+2每破)%移速，持续8秒；该武器对处于[牵制]状态的敌人造成的伤害提升76.5(+1.5每级/+20每破)%",
+        "alb": 0,
+        "maxLvDesc": "攻击命中时，使首个被命中的敌人进入[牵制]状态，降低25(45)%移速，持续8秒；该武器对处于[牵制]状态的敌人造成的伤害提升150(350)%"
+      },
+      {
+        "title": "百籁朝凤",
+        "damageType": "none",
+        "desc": "该武器弹道数超过5条时，每超过1条提升10.2(+0.2每级/+1每破)%攻击力，增加10.2(+0.2每级/+1每破)%暴击率，上限计算10条，达到上限时，弹头可以穿透敌人；向处于[牵制]状态的敌人射击时，将其半径500码范围内的敌人牵引至该敌人处，冷却1秒",
+        "alb": 0,
+        "maxLvDesc": "该武器弹道数超过5条时，每超过1条提升20(30)%攻击力，增加20(30)%暴击率，上限计算10条，达到上限时，弹头可以穿透敌人；向处于[牵制]状态的敌人射击时，将其半径500码范围内的敌人牵引至该敌人处，冷却1秒"
+      }
+    ],
+    "decompose": {
+      "on": true,
+      "dust": 1000,
+      "retrieve": {
+        "on": true,
+        "cost": 1060,
+        "uid": 21201,
+        "title": "凤引云音",
+        "rarity": 5,
+        "img": "21201"
+      }
+    },
+    "evolveFormula": {
+      "input": [
+        {
+          "id": 2385,
+          "input": {
+            "type": "equipment",
+            "id": 21201,
+            "img": "21201",
+            "name": "凤引云音"
+          },
+          "output": {
+            "type": "equipment",
+            "id": 21202,
+            "img": "21202",
+            "name": "凤引云音"
+          },
+          "materials": [
+            {
+              "type": "material",
+              "id": 9686,
+              "img": "9686",
+              "name": "猫猫团子",
+              "num": 1
+            },
+            {
+              "type": "material",
+              "id": 9686,
+              "img": "9686",
+              "name": "猫猫团子",
+              "num": 1
+            },
+            {
+              "type": "material",
+              "id": 9686,
+              "img": "9686",
+              "name": "猫猫团子",
+              "num": 1
+            },
+            {
+              "type": "material",
+              "id": 9686,
+              "img": "9686",
+              "name": "猫猫团子",
+              "num": 1
+            }
+          ]
+        }
+      ],
+      "output": []
+    },
+    "skins": []
+  },
+  {
+    "type": "weapon",
+    "baseType": "霰弹-多头",
+    "uid": 21202,
+    "id": 21202,
+    "title": "凤引云音",
+    "img": "21202",
+    "desc": "唯一装备，带多件无效哟~",
+    "rarity": 6,
+    "cost": 20,
+    "maxlv": 99,
+    "seriesId": 11,
+    "seriesText": "角色",
+    "damageType": "physic",
+    "damageBase": 1288,
+    "damageAdd": 11.898,
+    "damageMaxLv": 2454,
+    "ammoBase": 30,
+    "ammoAdd": 0,
+    "ammoMaxLv": 30,
+    "fireRateBase": 1.7,
+    "fireRateAdd": 0,
+    "fireRateMaxLv": 1.7,
+    "countDownTimeBase": 0,
+    "countDownTimeAdd": 0,
+    "countDownTimeMaxLv": 0,
+    "hpBase": 0,
+    "hpAdd": 0,
+    "hpMaxLv": 0,
+    "criticalRate": 0.05,
+    "multiShootLineNum": 7,
+    "limitedNumber": 0,
+    "posterId": 0,
+    "posters": [],
+    "skills": [
+      {
+        "title": "凤吟留云",
+        "damageType": "none",
+        "desc": "攻击命中时，使首个被命中的敌人进入[牵制]状态，降低25.5(+0.25每级/+2每破)%移速，持续8秒；该武器对处于[牵制]状态的敌人造成的伤害提升153(+1.5每级/+20每破)%",
+        "alb": 0,
+        "maxLvDesc": "攻击命中时，使首个被命中的敌人进入[牵制]状态，降低50(70)%移速，持续8秒；该武器对处于[牵制]状态的敌人造成的伤害提升300(500)%"
+      },
+      {
+        "title": "百籁朝凤",
+        "damageType": "none",
+        "desc": "该武器弹道数超过5条时，每超过1条提升20.4(+0.2每级/+1每破)%攻击力，增加20.4(+0.2每级/+1每破)%暴击率，上限计算10条，达到上限时，弹头可以穿透敌人；向处于[牵制]状态的敌人射击时，将其半径500码范围内的敌人牵引至该敌人处，冷却1秒",
+        "alb": 0,
+        "maxLvDesc": "该武器弹道数超过5条时，每超过1条提升40(50)%攻击力，增加40(50)%暴击率，上限计算10条，达到上限时，弹头可以穿透敌人；向处于[牵制]状态的敌人射击时，将其半径500码范围内的敌人牵引至该敌人处，冷却1秒"
+      }
+    ],
+    "decompose": null,
+    "evolveFormula": {
+      "input": [],
+      "output": [
+        {
+          "id": 2385,
+          "input": {
+            "type": "equipment",
+            "id": 21201,
+            "img": "21201",
+            "name": "凤引云音"
+          },
+          "output": {
+            "type": "equipment",
+            "id": 21202,
+            "img": "21202",
+            "name": "凤引云音"
+          },
+          "materials": [
+            {
+              "type": "material",
+              "id": 9686,
+              "img": "9686",
+              "name": "猫猫团子",
+              "num": 1
+            },
+            {
+              "type": "material",
+              "id": 9686,
+              "img": "9686",
+              "name": "猫猫团子",
+              "num": 1
+            },
+            {
+              "type": "material",
+              "id": 9686,
+              "img": "9686",
+              "name": "猫猫团子",
+              "num": 1
+            },
+            {
+              "type": "material",
+              "id": 9686,
+              "img": "9686",
+              "name": "猫猫团子",
+              "num": 1
+            }
+          ]
+        }
+      ]
+    },
+    "skins": []
+  },
+  {
+    "type": "weapon",
+    "baseType": "近战-刀剑",
+    "uid": 21203,
+    "id": 21203,
+    "title": "极意厨刀",
+    "img": "21203",
+    "desc": "唯一装备，带多件无效哟~",
+    "rarity": 5,
+    "cost": 15,
+    "maxlv": 50,
+    "seriesId": 11,
+    "seriesText": "角色",
+    "damageType": "physic",
+    "damageBase": 333,
+    "damageAdd": 10.898,
+    "damageMaxLv": 867,
+    "ammoBase": -1,
+    "ammoAdd": 0,
+    "ammoMaxLv": -1,
+    "fireRateBase": 3.3,
+    "fireRateAdd": 0,
+    "fireRateMaxLv": 3.3,
+    "countDownTimeBase": 0,
+    "countDownTimeAdd": 0,
+    "countDownTimeMaxLv": 0,
+    "hpBase": 0,
+    "hpAdd": 0,
+    "hpMaxLv": 0,
+    "criticalRate": 0.05,
+    "multiShootLineNum": 0,
+    "limitedNumber": 0,
+    "posterId": 0,
+    "posters": [],
+    "skills": [
+      {
+        "title": "核心刀法·拍",
+        "damageType": "physic",
+        "desc": "按住持续攻击，对半径500码范围内的目标造成100%武器攻击力的伤害，每秒增加该武器25.5(+0.5每级/+2每破)%伤害和10%攻击范围，上限计算10秒",
+        "alb": 0,
+        "maxLvDesc": "按住持续攻击，对半径500码范围内的目标造成100%武器攻击力的伤害，每秒增加该武器50(70)%伤害和10%攻击范围，上限计算10秒"
+      },
+      {
+        "title": "辅助刀法·砸",
+        "damageType": "none",
+        "desc": "攻击范围内每有一名敌人，增加10.2(+0.2每级/+1每破)%该武器暴击率，上限增加102(+2每级/+10每破)%；攻击范围达到最大时，持续牵引半径700码范围内的敌人",
+        "alb": 0,
+        "maxLvDesc": "攻击范围内每有一名敌人，增加20(30)%该武器暴击率，上限增加200(300)%；攻击范围达到最大时，持续牵引半径700码范围内的敌人"
+      }
+    ],
+    "decompose": {
+      "on": true,
+      "dust": 1000,
+      "retrieve": {
+        "on": true,
+        "cost": 1060,
+        "uid": 21203,
+        "title": "极意厨刀",
+        "rarity": 5,
+        "img": "21203"
+      }
+    },
+    "evolveFormula": {
+      "input": [
+        {
+          "id": 2386,
+          "input": {
+            "type": "equipment",
+            "id": 21203,
+            "img": "21203",
+            "name": "极意厨刀"
+          },
+          "output": {
+            "type": "equipment",
+            "id": 21204,
+            "img": "21204",
+            "name": "极意厨刀"
+          },
+          "materials": [
+            {
+              "type": "material",
+              "id": 9686,
+              "img": "9686",
+              "name": "猫猫团子",
+              "num": 1
+            },
+            {
+              "type": "material",
+              "id": 9686,
+              "img": "9686",
+              "name": "猫猫团子",
+              "num": 1
+            },
+            {
+              "type": "material",
+              "id": 9686,
+              "img": "9686",
+              "name": "猫猫团子",
+              "num": 1
+            },
+            {
+              "type": "material",
+              "id": 9686,
+              "img": "9686",
+              "name": "猫猫团子",
+              "num": 1
+            }
+          ]
+        }
+      ],
+      "output": []
+    },
+    "skins": []
+  },
+  {
+    "type": "weapon",
+    "baseType": "近战-刀剑",
+    "uid": 21204,
+    "id": 21204,
+    "title": "极意厨刀",
+    "img": "21204",
+    "desc": "唯一装备，带多件无效哟~",
+    "rarity": 6,
+    "cost": 20,
+    "maxlv": 99,
+    "seriesId": 11,
+    "seriesText": "角色",
+    "damageType": "physic",
+    "damageBase": 1491,
+    "damageAdd": 13.776,
+    "damageMaxLv": 2841,
+    "ammoBase": -1,
+    "ammoAdd": 0,
+    "ammoMaxLv": -1,
+    "fireRateBase": 3.3,
+    "fireRateAdd": 0,
+    "fireRateMaxLv": 3.3,
+    "countDownTimeBase": 0,
+    "countDownTimeAdd": 0,
+    "countDownTimeMaxLv": 0,
+    "hpBase": 0,
+    "hpAdd": 0,
+    "hpMaxLv": 0,
+    "criticalRate": 0.05,
+    "multiShootLineNum": 0,
+    "limitedNumber": 0,
+    "posterId": 0,
+    "posters": [],
+    "skills": [
+      {
+        "title": "核心刀法·拍",
+        "damageType": "physic",
+        "desc": "按住持续攻击，对半径500码范围内的目标造成100%武器攻击力的伤害，每秒增加该武器51(+0.5每级/+2每破)%伤害和10%攻击范围，上限计算10秒",
+        "alb": 0,
+        "maxLvDesc": "按住持续攻击，对半径500码范围内的目标造成100%武器攻击力的伤害，每秒增加该武器100(120)%伤害和10%攻击范围，上限计算10秒"
+      },
+      {
+        "title": "辅助刀法·砸",
+        "damageType": "none",
+        "desc": "攻击范围内每有一名敌人，增加20.4(+0.2每级/+1每破)%该武器暴击率，上限增加204(+2每级/+10每破)%；攻击范围达到最大时，持续牵引半径700码范围内的敌人",
+        "alb": 0,
+        "maxLvDesc": "攻击范围内每有一名敌人，增加40(50)%该武器暴击率，上限增加400(500)%；攻击范围达到最大时，持续牵引半径700码范围内的敌人"
+      }
+    ],
+    "decompose": null,
+    "evolveFormula": {
+      "input": [],
+      "output": [
+        {
+          "id": 2386,
+          "input": {
+            "type": "equipment",
+            "id": 21203,
+            "img": "21203",
+            "name": "极意厨刀"
+          },
+          "output": {
+            "type": "equipment",
+            "id": 21204,
+            "img": "21204",
+            "name": "极意厨刀"
+          },
+          "materials": [
+            {
+              "type": "material",
+              "id": 9686,
+              "img": "9686",
+              "name": "猫猫团子",
+              "num": 1
+            },
+            {
+              "type": "material",
+              "id": 9686,
+              "img": "9686",
+              "name": "猫猫团子",
+              "num": 1
+            },
+            {
+              "type": "material",
+              "id": 9686,
+              "img": "9686",
+              "name": "猫猫团子",
+              "num": 1
+            },
+            {
+              "type": "material",
+              "id": 9686,
+              "img": "9686",
+              "name": "猫猫团子",
+              "num": 1
+            }
+          ]
+        }
+      ]
+    },
+    "skins": []
+  },
+  {
+    "type": "weapon",
+    "baseType": "喷雾",
+    "uid": 21205,
+    "id": 21205,
+    "title": "莱茵的清算",
+    "img": "21205",
+    "desc": "唯一装备，带多件无效哟~",
+    "rarity": 5,
+    "cost": 15,
+    "maxlv": 50,
+    "seriesId": 11,
+    "seriesText": "角色",
+    "damageType": "physic",
+    "damageBase": 230,
+    "damageAdd": 7.51,
+    "damageMaxLv": 597,
+    "ammoBase": 10,
+    "ammoAdd": 0,
+    "ammoMaxLv": 10,
+    "fireRateBase": 20,
+    "fireRateAdd": 0,
+    "fireRateMaxLv": 20,
+    "countDownTimeBase": 0,
+    "countDownTimeAdd": 0,
+    "countDownTimeMaxLv": 0,
+    "hpBase": 0,
+    "hpAdd": 0,
+    "hpMaxLv": 0,
+    "criticalRate": 0.05,
+    "multiShootLineNum": 0,
+    "limitedNumber": 0,
+    "posterId": 0,
+    "posters": [],
+    "skills": [
+      {
+        "title": "荣誉之刃",
+        "damageType": "none",
+        "desc": "激活时，每秒消耗5枚该武器弹药，提升角色127.5(+2.5每级/+10每破)%攻击力，提升38.25(+0.75每级/+5每破)%单兵火箭类武器弹头造成的伤害，提升100%伤害半径",
+        "alb": 0,
+        "maxLvDesc": "激活时，每秒消耗5枚该武器弹药，提升角色250(350)%攻击力，提升75(125)%单兵火箭类武器弹头造成的伤害，提升100%伤害半径"
+      },
+      {
+        "title": "血染归鞘",
+        "damageType": "none",
+        "desc": "取消激活时，销毁场上所有弹头，每销毁一枚弹头，回复10%全武器弹药，提升7.65(+0.15每级/+2每破)%全伤害，上限计算10层，持续10秒",
+        "alb": 0,
+        "maxLvDesc": "取消激活时，销毁场上所有弹头，每销毁一枚弹头，回复10%全武器弹药，提升15(35)%全伤害，上限计算10层，持续10秒"
+      }
+    ],
+    "decompose": {
+      "on": true,
+      "dust": 1000,
+      "retrieve": {
+        "on": true,
+        "cost": 1060,
+        "uid": 21205,
+        "title": "莱茵的清算",
+        "rarity": 5,
+        "img": "21205"
+      }
+    },
+    "evolveFormula": {
+      "input": [
+        {
+          "id": 2387,
+          "input": {
+            "type": "equipment",
+            "id": 21205,
+            "img": "21205",
+            "name": "莱茵的清算"
+          },
+          "output": {
+            "type": "equipment",
+            "id": 21206,
+            "img": "21206",
+            "name": "莱茵的清算"
+          },
+          "materials": [
+            {
+              "type": "material",
+              "id": 9686,
+              "img": "9686",
+              "name": "猫猫团子",
+              "num": 1
+            },
+            {
+              "type": "material",
+              "id": 9686,
+              "img": "9686",
+              "name": "猫猫团子",
+              "num": 1
+            },
+            {
+              "type": "material",
+              "id": 9686,
+              "img": "9686",
+              "name": "猫猫团子",
+              "num": 1
+            },
+            {
+              "type": "material",
+              "id": 9686,
+              "img": "9686",
+              "name": "猫猫团子",
+              "num": 1
+            }
+          ]
+        }
+      ],
+      "output": []
+    },
+    "skins": []
+  },
+  {
+    "type": "weapon",
+    "baseType": "喷雾",
+    "uid": 21206,
+    "id": 21206,
+    "title": "莱茵的清算",
+    "img": "21206",
+    "desc": "唯一装备，带多件无效哟~",
+    "rarity": 6,
+    "cost": 20,
+    "maxlv": 99,
+    "seriesId": 11,
+    "seriesText": "角色",
+    "damageType": "none",
+    "damageBase": 514,
+    "damageAdd": 4.755,
+    "damageMaxLv": 979,
+    "ammoBase": 10,
+    "ammoAdd": 1.939,
+    "ammoMaxLv": 200,
+    "fireRateBase": 20,
+    "fireRateAdd": 0,
+    "fireRateMaxLv": 20,
+    "countDownTimeBase": 0,
+    "countDownTimeAdd": 0,
+    "countDownTimeMaxLv": 0,
+    "hpBase": 0,
+    "hpAdd": 0,
+    "hpMaxLv": 0,
+    "criticalRate": 0.05,
+    "multiShootLineNum": 0,
+    "limitedNumber": 0,
+    "posterId": 0,
+    "posters": [],
+    "skills": [
+      {
+        "title": "荣誉之刃",
+        "damageType": "none",
+        "desc": "激活时，每秒消耗5枚该武器弹药，提升角色255(+2.5每级/+10每破)%攻击力，提升76.5(+0.75每级/+5每破)%单兵火箭类武器弹头造成的伤害，提升100%伤害半径",
+        "alb": 0,
+        "maxLvDesc": "激活时，每秒消耗5枚该武器弹药，提升角色500(600)%攻击力，提升150(200)%单兵火箭类武器弹头造成的伤害，提升100%伤害半径"
+      },
+      {
+        "title": "血染归鞘",
+        "damageType": "none",
+        "desc": "取消激活时，销毁场上所有弹头，每销毁一枚弹头，回复10%全武器弹药，提升15.3(+0.15每级/+2每破)%全伤害，上限计算10层，持续10秒",
+        "alb": 0,
+        "maxLvDesc": "取消激活时，销毁场上所有弹头，每销毁一枚弹头，回复10%全武器弹药，提升30(50)%全伤害，上限计算10层，持续10秒"
+      }
+    ],
+    "decompose": null,
+    "evolveFormula": {
+      "input": [],
+      "output": [
+        {
+          "id": 2387,
+          "input": {
+            "type": "equipment",
+            "id": 21205,
+            "img": "21205",
+            "name": "莱茵的清算"
+          },
+          "output": {
+            "type": "equipment",
+            "id": 21206,
+            "img": "21206",
+            "name": "莱茵的清算"
           },
           "materials": [
             {
@@ -466938,6 +467642,63 @@
             }
           }
         ]
+      }
+    ],
+    "decompose": null,
+    "evolveFormula": {
+      "input": [],
+      "output": []
+    },
+    "skins": []
+  },
+  {
+    "type": "weapon",
+    "baseType": "狙击枪",
+    "uid": 28036,
+    "id": 0,
+    "title": "红之布里欧修",
+    "img": "21194",
+    "desc": "唯一装备，带多件无效哟~",
+    "rarity": 6,
+    "cost": 20,
+    "maxlv": 99,
+    "seriesId": 11,
+    "seriesText": "角色",
+    "damageType": "power",
+    "damageBase": 50,
+    "damageAdd": 0,
+    "damageMaxLv": 50,
+    "ammoBase": -1,
+    "ammoAdd": 0,
+    "ammoMaxLv": -1,
+    "fireRateBase": 4.8,
+    "fireRateAdd": 0,
+    "fireRateMaxLv": 4.8,
+    "countDownTimeBase": 0,
+    "countDownTimeAdd": 0,
+    "countDownTimeMaxLv": 0,
+    "hpBase": 0,
+    "hpAdd": 0,
+    "hpMaxLv": 0,
+    "criticalRate": 0,
+    "multiShootLineNum": 0,
+    "limitedNumber": 0,
+    "posterId": 0,
+    "posters": [],
+    "skills": [
+      {
+        "title": "发酵准备",
+        "damageType": "power",
+        "desc": "蓄力时每0.1秒对半径500码范围内随机敌人释放3次造成100%武器攻击力伤害攻击，攻击时每蓄力1秒对全场目标造成3300(+5每破)%攻击力的伤害，上限计算3秒，并在场地上留下一条[I型超碳线]，持续15秒，场地上最多存在3条，[I型超碳线]上的敌人会被识别为禁锢状态；该武器每有1%额外载弹，提升0%该武器攻击力，上限提升0(+5每破)%",
+        "alb": 0,
+        "maxLvDesc": "蓄力时每0.1秒对半径500码范围内随机敌人释放3次造成100%武器攻击力伤害攻击，攻击时每蓄力1秒对全场目标造成3300(3350)%攻击力的伤害，上限计算3秒，并在场地上留下一条[I型超碳线]，持续15秒，场地上最多存在3条，[I型超碳线]上的敌人会被识别为禁锢状态；该武器每有1%额外载弹，提升0%该武器攻击力，上限提升0(50)%"
+      },
+      {
+        "title": "开始烘烤",
+        "damageType": "power",
+        "desc": "使用其他武器时，引爆所有超碳线，对敌人造成1000%该武器攻击力伤害，并使其受到狙击类武器的伤害提升0(+5每破)%，持续8秒，引爆的每条[I型超碳线]提升0(+1每破)%狙击类武器伤害，增加0(+1每破)%该武器载弹量，上限计算0条，持续8秒；使用【无色辉火】角色时，触发[II型超碳线]时也会生成一条[I型超碳线]，[I型超碳线]存在上限+2，引爆对敌人造成伤害时增加0层[无色火焰]",
+        "alb": 0,
+        "maxLvDesc": "使用其他武器时，引爆所有超碳线，对敌人造成1000%该武器攻击力伤害，并使其受到狙击类武器的伤害提升0(50)%，持续8秒，引爆的每条[I型超碳线]提升0(10)%狙击类武器伤害，增加0(10)%该武器载弹量，上限计算0条，持续8秒；使用【无色辉火】角色时，触发[II型超碳线]时也会生成一条[I型超碳线]，[I型超碳线]存在上限+2，引爆对敌人造成伤害时增加0层[无色火焰]"
       }
     ],
     "decompose": null,
@@ -507949,8 +508710,8 @@
     "rarity": 5,
     "cost": 13,
     "maxlv": 50,
-    "seriesId": 11,
-    "seriesText": "角色",
+    "seriesId": 55,
+    "seriesText": "印第安",
     "posterId": 1161,
     "posters": [
       {
@@ -508451,27 +509212,27 @@
     "maxlv": 50,
     "seriesId": 11,
     "seriesText": "角色",
-    "posterId": 1210,
+    "posterId": 1202,
     "posters": [
       {
-        "id": 1210,
-        "figure": "2210",
-        "type": 2,
-        "name": "看板No.2210 Name",
-        "desc": "短介绍",
+        "id": 1202,
+        "figure": "2202",
+        "type": 1,
+        "name": "莱恩·科马雷",
+        "desc": "原东方军团的首脑，也是第一军团的首席技术官。军团纪元37年突然失踪，直到43年，才重新出现在少数人的视野中。",
         "talklist": [
-          "喵喵喵1",
-          "喵喵喵2",
-          "喵喵喵3",
-          "喵喵喵4",
-          "喵喵喵5",
-          "喵喵喵6"
+          "哟，你被我选中了，给你一次许愿的机会，想要什么都可以。",
+          "蒂亚拉这个小鬼，只有外表是可爱的。",
+          "星球的未来？人类的死活？跟我有什么关系？",
+          "星球的未来？人类的死活？跟我有什么关系？",
+          "克里斯玛？呵，一个胆小鬼罢了，我已经对他没兴趣了。",
+          "我看了看你终端里的数据，看来你也是个不太寻常的人类呢。"
         ],
-        "height": "???cm",
-        "weight": "体重",
-        "threesize": "??/??/??",
-        "birthday": "??/??",
-        "hobby": "趣味"
+        "height": "-",
+        "weight": "-",
+        "threesize": "-",
+        "birthday": "-",
+        "hobby": "所有有趣的事。"
       }
     ],
     "skills": [
@@ -508598,27 +509359,27 @@
     "maxlv": 99,
     "seriesId": 11,
     "seriesText": "角色",
-    "posterId": 1210,
+    "posterId": 1202,
     "posters": [
       {
-        "id": 1210,
-        "figure": "2210",
-        "type": 2,
-        "name": "看板No.2210 Name",
-        "desc": "短介绍",
+        "id": 1202,
+        "figure": "2202",
+        "type": 1,
+        "name": "莱恩·科马雷",
+        "desc": "原东方军团的首脑，也是第一军团的首席技术官。军团纪元37年突然失踪，直到43年，才重新出现在少数人的视野中。",
         "talklist": [
-          "喵喵喵1",
-          "喵喵喵2",
-          "喵喵喵3",
-          "喵喵喵4",
-          "喵喵喵5",
-          "喵喵喵6"
+          "哟，你被我选中了，给你一次许愿的机会，想要什么都可以。",
+          "蒂亚拉这个小鬼，只有外表是可爱的。",
+          "星球的未来？人类的死活？跟我有什么关系？",
+          "星球的未来？人类的死活？跟我有什么关系？",
+          "克里斯玛？呵，一个胆小鬼罢了，我已经对他没兴趣了。",
+          "我看了看你终端里的数据，看来你也是个不太寻常的人类呢。"
         ],
-        "height": "???cm",
-        "weight": "体重",
-        "threesize": "??/??/??",
-        "birthday": "??/??",
-        "hobby": "趣味"
+        "height": "-",
+        "weight": "-",
+        "threesize": "-",
+        "birthday": "-",
+        "hobby": "所有有趣的事。"
       }
     ],
     "skills": [
@@ -508697,6 +509458,400 @@
             "id": 40348,
             "img": "40348",
             "name": "A.C.C董事会最高标志"
+          },
+          "materials": [
+            {
+              "type": "material",
+              "id": 9686,
+              "img": "9686",
+              "name": "猫猫团子",
+              "num": 1
+            },
+            {
+              "type": "material",
+              "id": 9686,
+              "img": "9686",
+              "name": "猫猫团子",
+              "num": 1
+            },
+            {
+              "type": "material",
+              "id": 9686,
+              "img": "9686",
+              "name": "猫猫团子",
+              "num": 1
+            },
+            {
+              "type": "material",
+              "id": 9686,
+              "img": "9686",
+              "name": "猫猫团子",
+              "num": 1
+            }
+          ]
+        }
+      ]
+    },
+    "skins": []
+  },
+  {
+    "type": "passiveSkill",
+    "uid": 40349,
+    "id": 40349,
+    "title": "摸鱼女仆之证",
+    "img": "40349",
+    "desc": "唯一装备，带多件无效哟~",
+    "rarity": 5,
+    "cost": 13,
+    "maxlv": 50,
+    "seriesId": 11,
+    "seriesText": "角色",
+    "posterId": 0,
+    "posters": [],
+    "skills": [
+      {
+        "title": "随便美味魔法",
+        "damageType": "none",
+        "desc": "每1秒清除自身和半径500码范围内敌人身上1种异常状态，清除自身或敌人的异常状态时，获得0.51(+0.01每级/+0.1每破)层#([凝冰铭刻])，冷却3秒；若未清除异常，且#([凝冰铭刻])少于10层时，获得1层#([凝冰铭刻])。",
+        "alb": 0,
+        "maxLvDesc": "每1秒清除自身和半径500码范围内敌人身上1种异常状态，清除自身或敌人的异常状态时，获得1(2)层#([凝冰铭刻])，冷却3秒；若未清除异常，且#([凝冰铭刻])少于10层时，获得1层#([凝冰铭刻])。",
+        "extra": [
+          {
+            "type": "affix",
+            "skill": {
+              "id": "9300008",
+              "title": "凝冰铭刻",
+              "desc": "角色拥有时，增加100%冰属性伤害"
+            }
+          }
+        ]
+      },
+      {
+        "title": "现场将就套餐",
+        "damageType": "none",
+        "desc": "持有#([凝冰铭刻])时，提升20.4(+0.4每级/+2每破)%冰属性武器攻击力，增加20.4(+0.4每级/+2每破)%冰属性伤害；成功清除自身异常状态时，免疫该种异常状态，提升20.4(+0.4每级/+2每破)%全伤害，持续5秒",
+        "alb": 0,
+        "maxLvDesc": "持有#([凝冰铭刻])时，提升40(60)%冰属性武器攻击力，增加40(60)%冰属性伤害；成功清除自身异常状态时，免疫该种异常状态，提升40(60)%全伤害，持续5秒",
+        "extra": [
+          {
+            "type": "affix",
+            "skill": {
+              "id": "9300008",
+              "title": "凝冰铭刻",
+              "desc": "角色拥有时，增加100%冰属性伤害"
+            }
+          }
+        ]
+      }
+    ],
+    "decompose": {
+      "on": true,
+      "dust": 1000,
+      "retrieve": {
+        "on": true,
+        "cost": 1060,
+        "uid": 40349,
+        "title": "摸鱼女仆之证",
+        "rarity": 5,
+        "img": "40349"
+      }
+    },
+    "evolveFormula": {
+      "input": [
+        {
+          "id": 2388,
+          "input": {
+            "type": "equipment",
+            "id": 40349,
+            "img": "40349",
+            "name": "摸鱼女仆之证"
+          },
+          "output": {
+            "type": "equipment",
+            "id": 40350,
+            "img": "40350",
+            "name": "摸鱼女仆之证"
+          },
+          "materials": [
+            {
+              "type": "material",
+              "id": 9686,
+              "img": "9686",
+              "name": "猫猫团子",
+              "num": 1
+            },
+            {
+              "type": "material",
+              "id": 9686,
+              "img": "9686",
+              "name": "猫猫团子",
+              "num": 1
+            },
+            {
+              "type": "material",
+              "id": 9686,
+              "img": "9686",
+              "name": "猫猫团子",
+              "num": 1
+            },
+            {
+              "type": "material",
+              "id": 9686,
+              "img": "9686",
+              "name": "猫猫团子",
+              "num": 1
+            }
+          ]
+        }
+      ],
+      "output": []
+    },
+    "skins": []
+  },
+  {
+    "type": "passiveSkill",
+    "uid": 40350,
+    "id": 40350,
+    "title": "摸鱼女仆之证",
+    "img": "40350",
+    "desc": "唯一装备，带多件无效哟~",
+    "rarity": 6,
+    "cost": 20,
+    "maxlv": 99,
+    "seriesId": 11,
+    "seriesText": "角色",
+    "posterId": 0,
+    "posters": [],
+    "skills": [
+      {
+        "title": "随便美味魔法",
+        "damageType": "none",
+        "desc": "每1秒清除自身和半径500码范围内敌人身上1种异常状态，清除自身或敌人的异常状态时，获得1.02(+0.01每级/+0.1每破)层#([凝冰铭刻])，冷却3秒；若未清除异常，且#([凝冰铭刻])少于10层时，获得1层#([凝冰铭刻])。",
+        "alb": 0,
+        "maxLvDesc": "每1秒清除自身和半径500码范围内敌人身上1种异常状态，清除自身或敌人的异常状态时，获得2(3)层#([凝冰铭刻])，冷却3秒；若未清除异常，且#([凝冰铭刻])少于10层时，获得1层#([凝冰铭刻])。",
+        "extra": [
+          {
+            "type": "affix",
+            "skill": {
+              "id": "9300008",
+              "title": "凝冰铭刻",
+              "desc": "角色拥有时，增加100%冰属性伤害"
+            }
+          }
+        ]
+      },
+      {
+        "title": "现场将就套餐",
+        "damageType": "none",
+        "desc": "持有#([凝冰铭刻])时，提升40.8(+0.4每级/+2每破)%冰属性武器攻击力，增加40.8(+0.4每级/+2每破)%冰属性伤害；成功清除自身异常状态时，免疫该种异常状态，提升40.8(+0.4每级/+2每破)%全伤害，持续5秒",
+        "alb": 0,
+        "maxLvDesc": "持有#([凝冰铭刻])时，提升80(100)%冰属性武器攻击力，增加80(100)%冰属性伤害；成功清除自身异常状态时，免疫该种异常状态，提升80(100)%全伤害，持续5秒",
+        "extra": [
+          {
+            "type": "affix",
+            "skill": {
+              "id": "9300008",
+              "title": "凝冰铭刻",
+              "desc": "角色拥有时，增加100%冰属性伤害"
+            }
+          }
+        ]
+      }
+    ],
+    "decompose": null,
+    "evolveFormula": {
+      "input": [],
+      "output": [
+        {
+          "id": 2388,
+          "input": {
+            "type": "equipment",
+            "id": 40349,
+            "img": "40349",
+            "name": "摸鱼女仆之证"
+          },
+          "output": {
+            "type": "equipment",
+            "id": 40350,
+            "img": "40350",
+            "name": "摸鱼女仆之证"
+          },
+          "materials": [
+            {
+              "type": "material",
+              "id": 9686,
+              "img": "9686",
+              "name": "猫猫团子",
+              "num": 1
+            },
+            {
+              "type": "material",
+              "id": 9686,
+              "img": "9686",
+              "name": "猫猫团子",
+              "num": 1
+            },
+            {
+              "type": "material",
+              "id": 9686,
+              "img": "9686",
+              "name": "猫猫团子",
+              "num": 1
+            },
+            {
+              "type": "material",
+              "id": 9686,
+              "img": "9686",
+              "name": "猫猫团子",
+              "num": 1
+            }
+          ]
+        }
+      ]
+    },
+    "skins": []
+  },
+  {
+    "type": "passiveSkill",
+    "uid": 40351,
+    "id": 40351,
+    "title": "反弦惊鸿",
+    "img": "40351",
+    "desc": "唯一装备，带多件无效哟~",
+    "rarity": 5,
+    "cost": 13,
+    "maxlv": 50,
+    "seriesId": 11,
+    "seriesText": "角色",
+    "posterId": 0,
+    "posters": [],
+    "skills": [
+      {
+        "title": "反拨连珠",
+        "damageType": "none",
+        "desc": "霰弹类武器至少3枚弹头命中同一目标时，增加10.2(+0.2每级/+1每破)%霰弹类武器暴击率，增加300%霰弹类武器暴击伤害，持续8秒，上限计算5层；霰弹类武器同时命中至少3个目标时，提升10.2(+0.2每级/+1每破)%该武器造成的伤害和5.1(+0.1每级/+0.5每破)%攻速，持续8秒，上限计算5层",
+        "alb": 0,
+        "maxLvDesc": "霰弹类武器至少3枚弹头命中同一目标时，增加20(30)%霰弹类武器暴击率，增加300%霰弹类武器暴击伤害，持续8秒，上限计算5层；霰弹类武器同时命中至少3个目标时，提升20(30)%该武器造成的伤害和10(15)%攻速，持续8秒，上限计算5层"
+      },
+      {
+        "title": "惊鸿回雪",
+        "damageType": "none",
+        "desc": "触发一技能任意效果时充能1层能抵挡一次攻击的屏障，冷却2秒，最多充能5层，达到满层时，提升38.25(+0.75每级/+5每破)%全伤害和20.4(+0.4每级/+2每破)%移速",
+        "alb": 0,
+        "maxLvDesc": "触发一技能任意效果时充能1层能抵挡一次攻击的屏障，冷却2秒，最多充能5层，达到满层时，提升75(125)%全伤害和40(60)%移速"
+      }
+    ],
+    "decompose": {
+      "on": true,
+      "dust": 1000,
+      "retrieve": {
+        "on": true,
+        "cost": 1060,
+        "uid": 40351,
+        "title": "反弦惊鸿",
+        "rarity": 5,
+        "img": "40351"
+      }
+    },
+    "evolveFormula": {
+      "input": [
+        {
+          "id": 2389,
+          "input": {
+            "type": "equipment",
+            "id": 40351,
+            "img": "40351",
+            "name": "反弦惊鸿"
+          },
+          "output": {
+            "type": "equipment",
+            "id": 40352,
+            "img": "40352",
+            "name": "反弦惊鸿"
+          },
+          "materials": [
+            {
+              "type": "material",
+              "id": 9686,
+              "img": "9686",
+              "name": "猫猫团子",
+              "num": 1
+            },
+            {
+              "type": "material",
+              "id": 9686,
+              "img": "9686",
+              "name": "猫猫团子",
+              "num": 1
+            },
+            {
+              "type": "material",
+              "id": 9686,
+              "img": "9686",
+              "name": "猫猫团子",
+              "num": 1
+            },
+            {
+              "type": "material",
+              "id": 9686,
+              "img": "9686",
+              "name": "猫猫团子",
+              "num": 1
+            }
+          ]
+        }
+      ],
+      "output": []
+    },
+    "skins": []
+  },
+  {
+    "type": "passiveSkill",
+    "uid": 40352,
+    "id": 40352,
+    "title": "反弦惊鸿",
+    "img": "40352",
+    "desc": "唯一装备，带多件无效哟~",
+    "rarity": 6,
+    "cost": 20,
+    "maxlv": 99,
+    "seriesId": 11,
+    "seriesText": "角色",
+    "posterId": 0,
+    "posters": [],
+    "skills": [
+      {
+        "title": "反拨连珠",
+        "damageType": "none",
+        "desc": "霰弹类武器至少3枚弹头命中同一目标时，增加20.4(+0.2每级/+1每破)%霰弹类武器暴击率，增加300%霰弹类武器暴击伤害，持续8秒，上限计算5层；霰弹类武器同时命中至少3个目标时，提升20.4(+0.2每级/+1每破)%该武器造成的伤害和10.2(+0.1每级/+0.5每破)%攻速，持续8秒，上限计算5层",
+        "alb": 0,
+        "maxLvDesc": "霰弹类武器至少3枚弹头命中同一目标时，增加40(50)%霰弹类武器暴击率，增加300%霰弹类武器暴击伤害，持续8秒，上限计算5层；霰弹类武器同时命中至少3个目标时，提升40(50)%该武器造成的伤害和20(25)%攻速，持续8秒，上限计算5层"
+      },
+      {
+        "title": "惊鸿回雪",
+        "damageType": "none",
+        "desc": "触发一技能任意效果时充能1层能抵挡一次攻击的屏障，冷却2秒，最多充能5层，达到满层时，提升76.5(+0.75每级/+5每破)%全伤害和40.8(+0.4每级/+2每破)%移速",
+        "alb": 0,
+        "maxLvDesc": "触发一技能任意效果时充能1层能抵挡一次攻击的屏障，冷却2秒，最多充能5层，达到满层时，提升150(200)%全伤害和80(100)%移速"
+      }
+    ],
+    "decompose": null,
+    "evolveFormula": {
+      "input": [],
+      "output": [
+        {
+          "id": 2389,
+          "input": {
+            "type": "equipment",
+            "id": 40351,
+            "img": "40351",
+            "name": "反弦惊鸿"
+          },
+          "output": {
+            "type": "equipment",
+            "id": 40352,
+            "img": "40352",
+            "name": "反弦惊鸿"
           },
           "materials": [
             {
@@ -513462,6 +514617,66 @@
     "skins": []
   },
   {
+    "type": "passiveSkill",
+    "uid": 49468,
+    "id": 0,
+    "title": "特殊Buff#LU_135_1",
+    "img": "0",
+    "desc": "特殊活动定制装备",
+    "rarity": 5,
+    "cost": 50,
+    "maxlv": 99,
+    "seriesId": 0,
+    "seriesText": "无",
+    "posterId": 0,
+    "posters": [],
+    "skills": [
+      {
+        "title": "[未知技能名]",
+        "damageType": "none",
+        "desc": "角色附近存在敌人时，暴击率和全伤害提升",
+        "alb": 0,
+        "maxLvDesc": "角色附近存在敌人时，暴击率和全伤害提升"
+      }
+    ],
+    "decompose": null,
+    "evolveFormula": {
+      "input": [],
+      "output": []
+    },
+    "skins": []
+  },
+  {
+    "type": "passiveSkill",
+    "uid": 49469,
+    "id": 0,
+    "title": "特殊Buff#LU_135_2",
+    "img": "0",
+    "desc": "特殊活动定制装备",
+    "rarity": 5,
+    "cost": 50,
+    "maxlv": 99,
+    "seriesId": 0,
+    "seriesText": "无",
+    "posterId": 0,
+    "posters": [],
+    "skills": [
+      {
+        "title": "[未知技能名]",
+        "damageType": "none",
+        "desc": "角色附近没有敌人时，攻击力和全伤害提升",
+        "alb": 0,
+        "maxLvDesc": "角色附近没有敌人时，攻击力和全伤害提升"
+      }
+    ],
+    "decompose": null,
+    "evolveFormula": {
+      "input": [],
+      "output": []
+    },
+    "skins": []
+  },
+  {
     "type": "costume",
     "uid": 50001,
     "id": 4783,
@@ -516329,14 +517544,7 @@
         "type": 1,
         "name": "伦道夫·卡特",
         "desc": "被幻梦境赏识的传奇调查员，只要借助神秘的银钥匙，便能自由穿梭于梦大陆。#n总是因为不可抑制的好奇心，出入各种常人难以驾驭的新奇地点。#n她深得旁人敬佩，因为别人的目光下，她拥有无论接触多么不可名状之伟大神祇，或被其注视，都依旧能保持理智的强大精神力。#n真正的她，怎么可能是面对“一次性筷子没能完美地掰成两半”这种程度的小事，都会极其焦虑和烦恼的、敏感纤细的女孩……怎么可能为了掩饰内心的动摇，脸上一直保持着严肃认真、高贵冷漠的表情。#n没人知道她是怎么做到的。总之，她总能做到。#n画外音：“不就是又菜又爱玩的中二病吗？”",
-        "talklist": [
-          "尤格·索托斯大人曾对我低语：真正的窘迫非秘密被窥见，乃防御被识破。（于是，她便舍弃了安全裤）",
-          "诸位，开诚布公地说，除了“精神污染”外，我找不出任何足以形容这道菜的人间词汇。（是英国料理）",
-          "我曾身处一个日与夜、时间与空间、幻觉与真实之间纠缠不清的可怖世界。（是亚巴顿大人的电竞房）",
-          "在这片缥缈的巴比伦大地，我有过一段不忍回忆的恐怖过去。（指散步时过于投入，冰棍融化流满手）",
-          "见到那超凡之存在后，生活本身和那尘俗世故，都变得非常遥远。（指见到娇小可爱的尤格索托斯大人）",
-          "让脆弱神格前去调查，是巴比伦最不可饶恕之犯罪。遗书已写好，这件事请交给我。（指调查美洲大蠊）"
-        ],
+        "talklist": [],
         "height": "165cm",
         "weight": "50公斤",
         "threesize": "90/58/88",
@@ -516444,14 +517652,7 @@
         "type": 1,
         "name": "伦道夫·卡特",
         "desc": "被幻梦境赏识的传奇调查员，只要借助神秘的银钥匙，便能自由穿梭于梦大陆。#n总是因为不可抑制的好奇心，出入各种常人难以驾驭的新奇地点。#n她深得旁人敬佩，因为别人的目光下，她拥有无论接触多么不可名状之伟大神祇，或被其注视，都依旧能保持理智的强大精神力。#n真正的她，怎么可能是面对“一次性筷子没能完美地掰成两半”这种程度的小事，都会极其焦虑和烦恼的、敏感纤细的女孩……怎么可能为了掩饰内心的动摇，脸上一直保持着严肃认真、高贵冷漠的表情。#n没人知道她是怎么做到的。总之，她总能做到。#n画外音：“不就是又菜又爱玩的中二病吗？”",
-        "talklist": [
-          "尤格·索托斯大人曾对我低语：真正的窘迫非秘密被窥见，乃防御被识破。（于是，她便舍弃了安全裤）",
-          "诸位，开诚布公地说，除了“精神污染”外，我找不出任何足以形容这道菜的人间词汇。（是英国料理）",
-          "我曾身处一个日与夜、时间与空间、幻觉与真实之间纠缠不清的可怖世界。（是亚巴顿大人的电竞房）",
-          "在这片缥缈的巴比伦大地，我有过一段不忍回忆的恐怖过去。（指散步时过于投入，冰棍融化流满手）",
-          "见到那超凡之存在后，生活本身和那尘俗世故，都变得非常遥远。（指见到娇小可爱的尤格索托斯大人）",
-          "让脆弱神格前去调查，是巴比伦最不可饶恕之犯罪。遗书已写好，这件事请交给我。（指调查美洲大蠊）"
-        ],
+        "talklist": [],
         "height": "165cm",
         "weight": "50公斤",
         "threesize": "90/58/88",
@@ -518740,6 +519941,322 @@
             "id": 50039,
             "img": "50039",
             "name": "天灯星璀·蓝花藤"
+          },
+          "materials": [
+            {
+              "type": "material",
+              "id": 9480,
+              "img": "3272",
+              "name": "幻惑者的凝望",
+              "num": 1
+            },
+            {
+              "type": "material",
+              "id": 9339,
+              "img": "1717",
+              "name": "悖心者的烙印",
+              "num": 1
+            },
+            {
+              "type": "material",
+              "id": 9340,
+              "img": "1718",
+              "name": "遥远的金色回忆",
+              "num": 1
+            },
+            {
+              "type": "material",
+              "id": 9687,
+              "img": "9687",
+              "name": "崩坏之羽",
+              "num": 1
+            },
+            {
+              "type": "material",
+              "id": 9687,
+              "img": "9687",
+              "name": "崩坏之羽",
+              "num": 1
+            }
+          ]
+        }
+      ]
+    },
+    "skins": []
+  },
+  {
+    "type": "costume",
+    "uid": 50040,
+    "id": 50040,
+    "title": "肉堡站点的制服",
+    "img": "50040",
+    "desc": "",
+    "rarity": 5,
+    "cost": 15,
+    "maxlv": 50,
+    "seriesId": 11,
+    "seriesText": "角色",
+    "hpBase": 1900,
+    "hpAdd": 62.041,
+    "hpMaxLv": 4940,
+    "posterId": 0,
+    "posters": [],
+    "skills": [
+      {
+        "title": "劲辣嫩牛堡",
+        "damageType": "none",
+        "desc": "提升20.4(+0.4每级/+2每破)%全伤害；进入关卡时获得10层#([雷电铭刻])；每获得20层#([雷电铭刻])，进入[满电]状态，提升20.4(+0.4每级/+2每破)%移速，增加102(+2每级/+10每破)%电属性伤害，持续15秒后退出[满电]状态",
+        "alb": 0,
+        "maxLvDesc": "提升40(60)%全伤害；进入关卡时获得10层#([雷电铭刻])；每获得20层#([雷电铭刻])，进入[满电]状态，提升40(60)%移速，增加200(300)%电属性伤害，持续15秒后退出[满电]状态",
+        "extra": [
+          {
+            "type": "affix",
+            "skill": {
+              "id": "9300006",
+              "title": "雷电铭刻",
+              "desc": "角色拥有时，增加100%电属性伤害"
+            }
+          }
+        ]
+      },
+      {
+        "title": "疯狂第四天",
+        "damageType": "light",
+        "desc": "处于[满电]状态时，每消耗2层#([雷电铭刻])，产生一道能在600码范围内不同目标间弹跳3次的闪电链，造成102(+2每级/+10每破)%手持武器攻击力伤害，并使敌人陷入麻痹状态，持续10秒",
+        "alb": 0,
+        "maxLvDesc": "处于[满电]状态时，每消耗2层#([雷电铭刻])，产生一道能在600码范围内不同目标间弹跳3次的闪电链，造成200(300)%手持武器攻击力伤害，并使敌人陷入麻痹状态，持续10秒",
+        "extra": [
+          {
+            "type": "affix",
+            "skill": {
+              "id": "9300006",
+              "title": "雷电铭刻",
+              "desc": "角色拥有时，增加100%电属性伤害"
+            }
+          }
+        ]
+      }
+    ],
+    "decompose": {
+      "on": true,
+      "dust": 1000,
+      "retrieve": {
+        "on": true,
+        "cost": 1060,
+        "uid": 50040,
+        "title": "肉堡站点的制服",
+        "rarity": 5,
+        "img": "50040"
+      }
+    },
+    "evolveFormula": {
+      "input": [
+        {
+          "id": 2390,
+          "input": {
+            "type": "equipment",
+            "id": 50040,
+            "img": "50040",
+            "name": "肉堡站点的制服"
+          },
+          "output": {
+            "type": "equipment",
+            "id": 50041,
+            "img": "50041",
+            "name": "肉堡站点的制服"
+          },
+          "materials": [
+            {
+              "type": "material",
+              "id": 9686,
+              "img": "9686",
+              "name": "猫猫团子",
+              "num": 1
+            },
+            {
+              "type": "material",
+              "id": 9686,
+              "img": "9686",
+              "name": "猫猫团子",
+              "num": 1
+            },
+            {
+              "type": "material",
+              "id": 9686,
+              "img": "9686",
+              "name": "猫猫团子",
+              "num": 1
+            },
+            {
+              "type": "material",
+              "id": 9686,
+              "img": "9686",
+              "name": "猫猫团子",
+              "num": 1
+            }
+          ]
+        }
+      ],
+      "output": []
+    },
+    "skins": []
+  },
+  {
+    "type": "costume",
+    "uid": 50041,
+    "id": 50041,
+    "title": "肉堡站点的制服",
+    "img": "50041",
+    "desc": "",
+    "rarity": 6,
+    "cost": 20,
+    "maxlv": 99,
+    "seriesId": 11,
+    "seriesText": "角色",
+    "hpBase": 4248,
+    "hpAdd": 39.245,
+    "hpMaxLv": 8094,
+    "posterId": 0,
+    "posters": [],
+    "skills": [
+      {
+        "title": "劲辣嫩牛堡",
+        "damageType": "none",
+        "desc": "提升40.8(+0.4每级/+2每破)%全伤害；进入关卡时获得10层#([雷电铭刻])；每获得20层#([雷电铭刻])，进入[满电]状态，提升40.8(+0.4每级/+2每破)%移速，增加204(+2每级/+10每破)%电属性伤害，持续15秒后退出[满电]状态",
+        "alb": 0,
+        "maxLvDesc": "提升80(100)%全伤害；进入关卡时获得10层#([雷电铭刻])；每获得20层#([雷电铭刻])，进入[满电]状态，提升80(100)%移速，增加400(500)%电属性伤害，持续15秒后退出[满电]状态",
+        "extra": [
+          {
+            "type": "affix",
+            "skill": {
+              "id": "9300006",
+              "title": "雷电铭刻",
+              "desc": "角色拥有时，增加100%电属性伤害"
+            }
+          }
+        ]
+      },
+      {
+        "title": "疯狂第四天",
+        "damageType": "light",
+        "desc": "处于[满电]状态时，每消耗2层#([雷电铭刻])，产生一道能在600码范围内不同目标间弹跳3次的闪电链，造成204(+2每级/+10每破)%手持武器攻击力伤害，并使敌人陷入麻痹状态，持续10秒",
+        "alb": 0,
+        "maxLvDesc": "处于[满电]状态时，每消耗2层#([雷电铭刻])，产生一道能在600码范围内不同目标间弹跳3次的闪电链，造成400(500)%手持武器攻击力伤害，并使敌人陷入麻痹状态，持续10秒",
+        "extra": [
+          {
+            "type": "affix",
+            "skill": {
+              "id": "9300006",
+              "title": "雷电铭刻",
+              "desc": "角色拥有时，增加100%电属性伤害"
+            }
+          }
+        ]
+      }
+    ],
+    "decompose": null,
+    "evolveFormula": {
+      "input": [],
+      "output": [
+        {
+          "id": 2390,
+          "input": {
+            "type": "equipment",
+            "id": 50040,
+            "img": "50040",
+            "name": "肉堡站点的制服"
+          },
+          "output": {
+            "type": "equipment",
+            "id": 50041,
+            "img": "50041",
+            "name": "肉堡站点的制服"
+          },
+          "materials": [
+            {
+              "type": "material",
+              "id": 9686,
+              "img": "9686",
+              "name": "猫猫团子",
+              "num": 1
+            },
+            {
+              "type": "material",
+              "id": 9686,
+              "img": "9686",
+              "name": "猫猫团子",
+              "num": 1
+            },
+            {
+              "type": "material",
+              "id": 9686,
+              "img": "9686",
+              "name": "猫猫团子",
+              "num": 1
+            },
+            {
+              "type": "material",
+              "id": 9686,
+              "img": "9686",
+              "name": "猫猫团子",
+              "num": 1
+            }
+          ]
+        }
+      ]
+    },
+    "skins": []
+  },
+  {
+    "type": "costume",
+    "uid": 50042,
+    "id": 50042,
+    "title": "灵姬美音天",
+    "img": "50042",
+    "desc": "",
+    "rarity": 7,
+    "cost": 35,
+    "maxlv": 99,
+    "seriesId": 11,
+    "seriesText": "角色",
+    "hpBase": 2660,
+    "hpAdd": 25.204,
+    "hpMaxLv": 5129,
+    "posterId": 0,
+    "posters": [],
+    "skills": [
+      {
+        "title": "妙音觉海心",
+        "damageType": "none",
+        "desc": "切换武器后，回复当前手持武器20%弹药，增加40.8(+0.4每级/+2每破)%暴击率，持续10秒，冷却1秒",
+        "alb": 0,
+        "maxLvDesc": "切换武器后，回复当前手持武器20%弹药，增加80(100)%暴击率，持续10秒，冷却1秒"
+      },
+      {
+        "title": "八臂莲华藏",
+        "damageType": "none",
+        "desc": "携带武器类型皆不相同或者皆相同时，增加100%常驻移速，127.5(+1.25每级/+5每破)%暴击伤害；手持武器残弹量大于50%时，提升40.8(+0.4每级/+2每破)%该武器攻击力",
+        "alb": 0,
+        "maxLvDesc": "携带武器类型皆不相同或者皆相同时，增加100%常驻移速，250(300)%暴击伤害；手持武器残弹量大于50%时，提升80(100)%该武器攻击力"
+      }
+    ],
+    "decompose": null,
+    "evolveFormula": {
+      "input": [],
+      "output": [
+        {
+          "id": 2391,
+          "input": {
+            "type": "equipment",
+            "id": 1523,
+            "img": "4236",
+            "name": "妙音天女"
+          },
+          "output": {
+            "type": "equipment",
+            "id": 50042,
+            "img": "50042",
+            "name": "灵姬美音天"
           },
           "materials": [
             {
