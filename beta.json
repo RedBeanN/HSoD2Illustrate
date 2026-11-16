@@ -466743,7 +466743,18 @@
         "maxLvDesc": "该武器弹道数超过3条时，每超过1条提升40(50)%攻击力，增加40(50)%暴击率，上限计算10条，达到上限时，弹头可以穿透敌人；向处于[牵制]状态的敌人射击时，将其半径500码范围内的敌人牵引至该敌人处，冷却1秒"
       }
     ],
-    "decompose": null,
+    "decompose": {
+      "on": true,
+      "dust": 1000,
+      "retrieve": {
+        "on": true,
+        "cost": 1060,
+        "uid": 21201,
+        "title": "凤引云音",
+        "rarity": 5,
+        "img": "21201"
+      }
+    },
     "evolveFormula": {
       "input": [],
       "output": [
@@ -466960,7 +466971,18 @@
         "maxLvDesc": "攻击范围内每有一名敌人，增加40(50)%该武器暴击率，上限增加400(500)%；攻击范围达到最大时，持续牵引半径700码范围内的敌人"
       }
     ],
-    "decompose": null,
+    "decompose": {
+      "on": true,
+      "dust": 1000,
+      "retrieve": {
+        "on": true,
+        "cost": 1060,
+        "uid": 21203,
+        "title": "极意厨刀",
+        "rarity": 5,
+        "img": "21203"
+      }
+    },
     "evolveFormula": {
       "input": [],
       "output": [
@@ -467177,7 +467199,18 @@
         "maxLvDesc": "取消激活时，销毁场上所有弹头，每销毁一枚弹头，回复10%全武器弹药，提升30(50)%全伤害，上限计算10层，持续15秒"
       }
     ],
-    "decompose": null,
+    "decompose": {
+      "on": true,
+      "dust": 1000,
+      "retrieve": {
+        "on": true,
+        "cost": 1060,
+        "uid": 21205,
+        "title": "莱茵的清算",
+        "rarity": 5,
+        "img": "21205"
+      }
+    },
     "evolveFormula": {
       "input": [],
       "output": [
@@ -509658,7 +509691,18 @@
         ]
       }
     ],
-    "decompose": null,
+    "decompose": {
+      "on": true,
+      "dust": 1000,
+      "retrieve": {
+        "on": true,
+        "cost": 1060,
+        "uid": 40349,
+        "title": "摸鱼女仆之证",
+        "rarity": 5,
+        "img": "40349"
+      }
+    },
     "evolveFormula": {
       "input": [],
       "output": [
@@ -509835,7 +509879,18 @@
         "maxLvDesc": "触发一技能任意效果时充能1层能抵挡一次攻击的屏障，冷却1秒，最多充能5层，达到满层时，提升200(250)%全伤害和80(100)%移速"
       }
     ],
-    "decompose": null,
+    "decompose": {
+      "on": true,
+      "dust": 1000,
+      "retrieve": {
+        "on": true,
+        "cost": 1060,
+        "uid": 40351,
+        "title": "反弦惊鸿",
+        "rarity": 5,
+        "img": "40351"
+      }
+    },
     "evolveFormula": {
       "input": [],
       "output": [
@@ -520154,7 +520209,18 @@
         ]
       }
     ],
-    "decompose": null,
+    "decompose": {
+      "on": true,
+      "dust": 1000,
+      "retrieve": {
+        "on": true,
+        "cost": 1060,
+        "uid": 50040,
+        "title": "肉堡站点的制服",
+        "rarity": 5,
+        "img": "50040"
+      }
+    },
     "evolveFormula": {
       "input": [],
       "output": [
@@ -520240,7 +520306,18 @@
         "maxLvDesc": "携带武器类型皆不相同或者皆相同时，增加100%常驻移速，80(100)%暴击伤害；手持武器残弹量大于50%时，提升80(100)%该武器攻击力"
       }
     ],
-    "decompose": null,
+    "decompose": {
+      "on": true,
+      "dust": 1000,
+      "retrieve": {
+        "on": true,
+        "cost": 1060,
+        "uid": 1522,
+        "title": "妙音天女",
+        "rarity": 5,
+        "img": "4235"
+      }
+    },
     "evolveFormula": {
       "input": [],
       "output": [
